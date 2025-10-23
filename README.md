@@ -1,6 +1,18 @@
-[Iris](https://github.com/dolidolih/Iris)
+# Iris Client
+This Repository is for MessengerBot's Legacy API.
 
-# 오픈소스 라이센스
+## 알아야할 것
+해당 레포엔 Javascript 만 올라옵니다!
+
+해당 코드를 사용하여 발생한 모든 일 (~~정지~~, ~~법적 책임~~, 그 밖에 모든 불이익) 은 모두 사용자 본인에게 있으며, 개발자는 어떠한 책임도 지지 않음을 알립니다.
+
+## 관련 레포들
+[Iris](https://github.com/dolidolih/Iris)
+ [lossless-json](https://github.com/josdejong/lossless-json)
+ [eventemitter3](https://github.com/primus/eventemitter3)
+
+
+## 오픈소스 라이센스
 <details>
 <summary>lossless-json</summary>
 
