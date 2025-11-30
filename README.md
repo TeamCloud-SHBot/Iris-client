@@ -1,3 +1,6 @@
+## ~~Deprecated~~
+## 개발자 2명 다 Iris 안써서 망함
+
 # Iris Client
 This Repository is for MessengerBot's Legacy API.
 
